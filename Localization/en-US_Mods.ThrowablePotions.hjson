@@ -1,0 +1,39 @@
+Projectiles: {
+	ThrownHealing.DisplayName: Lesser Healing Potion
+	ThrownMana.DisplayName: Lesser Mana Potion
+	ThrownRecall.DisplayName: Recall Potion
+	ThrownGravity.DisplayName: Gravitation Potion
+	ThrownInvis.DisplayName: Invisibility Potion
+}
+
+Buffs: {
+	ExtraSupportBuff: {
+		DisplayName: Extra-Support Buff
+		Description: ""
+	}
+
+	RecallBuff: {
+		DisplayName: Recall Buff
+		Description: ""
+	}
+
+	GravityBuff: {
+		DisplayName: Gravity Buff
+		Description: ""
+	}
+
+	InvisBuff: {
+		DisplayName: Invis Buff
+		Description: ""
+	}
+
+	ExtraLifeBuff: {
+		DisplayName: Extra-Life Buff
+		Description: ""
+	}
+
+	ExtraManaBuff: {
+		DisplayName: Extra-Mana Buff
+		Description: ""
+	}
+}
